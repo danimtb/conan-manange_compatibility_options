@@ -259,10 +259,11 @@ the `package_id()` presented above is not valid, so **we cannot generalize that 
 
 # Tests done
 
-Here it is the table with the combinations done for this tests and the commands run to check the conditions and generate the HTML graph
-files:
+Here it is the table with the combinations done for this tests and the commands run to check the conditions:
 
 ![image](info/table.png)
+
+There are also HTML graph files in the *info* folder in this repository for each of the combinations.
 
 Commands:
 
