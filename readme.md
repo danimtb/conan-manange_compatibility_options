@@ -97,7 +97,7 @@ top/1.0.0@user/channel
 ```
 
 Finally, if you check the package IDs listed in the info output, those are **different** from the ones we created originally, so we will
-need to rebuild `top` and `medium`.
+need to rebuild `top` and `medium`. This is the behavior we expected as set in our conditions section above.
 
 # Why this is right?
 
