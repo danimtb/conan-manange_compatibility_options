@@ -99,7 +99,7 @@ top/1.0.0@user/channel
 Finally, if you check the package IDs listed in the info output, those are **different** from the ones we created originally, so we will
 need to rebuild `top` and `medium`.
 
-# Why I think this is right?
+# Why this is right?
 
 Removing the `package_id()` method in `medium` will result on having to rebuild package `top` and not `medium` which is fine (is the
 expected behavior) but is not the condition we set previously (if option changes in `top`, `medium`'s package ID is affected).
